@@ -2,9 +2,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Libraries Used](#technologies-used)
+* [Libraries Used](#libraries-used)
 * [Conclusions-&-Considerations](#Conclusions-&-Considerations)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -27,7 +26,7 @@ The data given to us contains information about past loan applicants and whether
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions & Considerations
+<a id='libraries-used'>## Conclusions & Considerations</a>
 ### Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss are:
 * Annual Income
 * Grade
