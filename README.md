@@ -55,4 +55,4 @@ This project was based on [Advance EDA](https://www.youtube.com/watch?v=bNY3Xaxw
 
 
 ### Collaborators:
- [Girish Kumar](https://github.com/ga898) and  [Ganesh Peri](https://github.com/)
+ [Girish Kumar](https://github.com/ga898) and  [Ganesh Peri](https://github.com/GeekGani)
